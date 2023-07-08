@@ -57,9 +57,9 @@ Here are some ideas to get you started:
       
 <blockquote>
   
-I'm a software engineer based in New Delhi,India and I love writing code!
+I'm a software engineer based in New Delhi, India and I love writing code!
 
-I 'm passionate about crafting efficient, scalable, and innovative solutions. Proficient in Python, Django DRF, NodeJS, AWS, MYSQL, Elastic Search, MongoDB, Redis Cache, and Serverless, I excel in agile environments, delivering high-quality software solutions that meet clients' requirements.
+I'm passionate about crafting efficient, scalable, and innovative solutions. Proficient in Python, Django DRF, NodeJS, AWS, MYSQL, Elastic Search, MongoDB, Redis Cache, and Serverless, I excel in agile environments, delivering high-quality software solutions that meet clients' requirements.
 
 My approach focuses on scalability and performance, ensuring that the web applications I develop are reliable and efficient under high-traffic volumes. I'm driven by the opportunity to use technology to solve complex problems and constantly seek to expand my skill set through learning and exploring new technologies and methodologies.
 
