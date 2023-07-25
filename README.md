@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img height="200" src="https://github.com/tausiftj/tausiftj/raw/main/assets/overview.svg#gh-dark-mode-only" />
+  <img height="200" src="https://github.com/tausiftj/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
   <img height="200" src="https://github.com/tausiftj/tausiftj/raw/main/assets/languages.svg#gh-dark-mode-only" />
 </p>
 
